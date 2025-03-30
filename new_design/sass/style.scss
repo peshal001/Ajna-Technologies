@@ -1,0 +1,811 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- Title Start -->
+    <title> 404 Error | AllianceTek</title>
+    <!-- Title End -->
+
+    <!-- Meta Tags Start -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Meta Tags End -->
+
+    <!-- Favicon Start -->
+    <link rel="icon" type="image/x-icon" href="new_design/images/favicon.ico">
+    <!-- Favicon End -->
+
+    <!-- Fonts Css Start -->
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" type="text/css"
+        href="new_design/fonts/font.min.css">
+    <!-- Fonts Css End -->
+
+    <!-- Owl Carousel Css Etart -->
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" type="text/css"
+        href="new_design/css/owl.carousel.min.css">
+    <!-- Owl Carousel Css End -->
+
+    <!-- Custom Css Start -->
+    <link rel="preload" as="style" onload="this.onload=null;this.rel='stylesheet'" type="text/css"
+        href="new_design/css/style.css">
+    <!-- Custom Css End -->
+
+</head>
+
+<body>
+
+    <!-- Header Start -->
+    <header class="at-header">
+        <div class="container-xl">
+            <nav class="navbar navbar-expand-lg">
+				<a class="navbar-brand" href="/index.html">
+					<img src="new_design/images/ajna.jpg" alt="AllianceTek Inc" width="400" height="106" class="lazy">
+				</a>
+				<div class="at-head-btn-number d-flex align-items-center">
+					<a href="tel:484-892-5713" class="at-head-number d-flex d-lg-none align-items-center mx-3">
+						<span class="d-flex align-items-center justify-content-center">
+							<img src="new_design/images/icons/phone-blue.svg" alt="Phone Icon" class="lazy">
+						</span> (484) 892-5713
+					</a>
+					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#atNavBar"
+						aria-controls="atNavBar" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-animation">
+							<span></span>
+							<span></span>
+							<span></span>
+						</span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse" id="atNavBar">
+					<ul class="navbar-nav ms-auto" id="atNavBar1">
+						<li class="nav-item at-has-menu at-mega-menu">
+							<a class="nav-link" aria-current="page" href="javascript:void(0);">Solutions</a>
+							<button class="accordion-button d-lg-none at-has-sub-menu-arrow" type="button"
+								data-bs-toggle="collapse" data-bs-target="#SolutionsSub" aria-expanded="false"
+								aria-controls="SolutionsSub">
+								Menu Collapse
+								<img src="new_design/images/icons/arrow_blue_small_next.svg"
+									class="d-lg-block d-none at-svg" alt="Next Arrow Icon">
+							</button>
+							<ul class="collapse d-lg-flex align-items-center" id="SolutionsSub"
+								data-bs-parent="#atNavBar1">
+
+								<div class="at-image-holder d-none d-lg-block">
+									<img src="new_design/images/header/at_business_process.webp" alt="Solutions Images">
+								</div>
+								<ul class="at-list">
+									<li class="nav-item">
+										<a href="/business-process-automation.html"
+											data-src="new_design/images/header/at_business_process.webp">
+											Business Process Automation
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/cms.html"
+											data-src="new_design/images/header/at_content_management.webp">
+											Enterprise Content Management
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/business-intelligence.html"
+											data-src="new_design/images/header/at_business_intelligence.webp">
+											Business Intelligence
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/enterprise-integration.html"
+											data-src="new_design/images/header/at_enterprise_integration.webp">
+											Enterprise Integration
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/cloud-solution.html" data-src="new_design/images/header/at_cloud.webp">
+											Cloud
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/enterprise-search.html"
+											data-src="new_design/images/header/at_enterprise_search.webp">
+											Enterprise Search
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/collaboration-tools.html"
+											data-src="new_design/images/header/at_collaboration.webp">
+											Collaboration
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/mobile-application.html"
+											data-src="new_design/images/header/at_mobile.webp">
+											Mobile
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/crm.html"
+											data-src="new_design/images/header/at_relationship_management.webp">
+											Customer Relationship Management
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/malls-management-solutions.html"
+											data-src="new_design/images/header/at_mall_management.webp">
+											Mall Management Software
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/e-learning.html" data-src="new_design/images/header/at_elerning.webp">
+											e-Learning
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/emr.html"
+											data-src="new_design/images/header/at_electronic_medical.webp">
+											Electronic Medical Records Application
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/ecommerce-application.html"
+											data-src="new_design/images/header/at_ecommerce.webp">
+											eCommerce
+										</a>
+									</li>
+								</ul>
+							</ul>
+						</li>
+						<li class="nav-item at-has-menu at-mega-menu at-service-mega-menu">
+							<a class="nav-link" href="javascript:void(0);">Services</a>
+							<button class="accordion-button d-lg-none at-has-sub-menu-arrow" type="button"
+								data-bs-toggle="collapse" data-bs-target="#ServicesSub" aria-expanded="false"
+								aria-controls="ServicesSub">
+								Menu Collapse
+								<img src="new_design/images/icons/arrow_blue_small_next.svg"
+									class="d-lg-block d-none at-svg" alt="Next Arrow Icon">
+							</button>
+							<ul class="collapse d-lg-flex align-items-center" id="ServicesSub"
+								data-bs-parent="#atNavBar1">
+								<div class="at-image-holder-v2 d-none d-lg-block">
+									<img src="new_design/images/header/at_application_development.webp"
+										alt="Services Images">
+								</div>
+								<ul class="at-list-v2">
+									<li class="nav-item">
+										<a href="/application-development-services.html"
+											data-src="new_design/images/header/at_application_development.webp">
+											Application Development
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/saas-development-services.html"
+											data-src="new_design/images/header/at_saas_development.webp">
+											SaaS Development
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/microsoft-365-infrastructure.html"
+											data-src="new_design/images/header/at_microsoft_365.webp">
+											Microsoft 365 Infrastructure
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/ai-ml-development-services.html"
+											data-src="new_design/images/header/at_ai_development.webp">
+											AI/ML Development
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/robotic-process-automation.html"
+											data-src="new_design/images/header/at-robotic_process_automation.webp">
+											Robotic Process Automation
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services-support-maintenance.html"
+											data-src="new_design/images/header/at_support_maintenance.webp">
+											Support & Maintenance
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services-application-ui-ux-design.html"
+											data-src="new_design/images/header/at_application_ui_ux.webp">
+											Application UI/UX Design
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services-consultation.html"
+											data-src="new_design/images/header/at_consulting.webp">
+											Consulting
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services-application-integration.html"
+											data-src="new_design/images/header/at_application_integration.webp">
+											Application Integration
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services-hosting.html"
+											data-src="new_design/images/header/at_hosting.webp">
+											Hosting
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/legacy-modernization-services.html"
+											data-src="new_design/images/header/at-legacy_system_migration.webp">
+											Legacy System Migration
+										</a>
+									</li>
+								</ul>
+							</ul>
+						</li>
+						<li class="nav-item at-has-menu at-mega-menu at-technology-mega-menu">
+							<a class="nav-link" href="javascript:void(0);">Technology</a>
+							<button class="accordion-button d-lg-none at-has-sub-menu-arrow" type="button"
+								data-bs-toggle="collapse" data-bs-target="#TechnologySub" aria-expanded="false"
+								aria-controls="TechnologySub">
+								Menu Collapse
+								<img src="new_design/images/icons/arrow_blue_small_next.svg"
+									class="d-lg-block d-none at-svg" alt="Next Arrow Icon">
+							</button>
+							<ul class="collapse d-lg-block" id="TechnologySub" data-bs-parent="#atNavBar1">
+								<ul>
+									<li class="nav-item">
+										<a href="/dot-net-development-services.html">
+											<img src="new_design/images/icons/at-dotnet.svg" alt=".NET icon"
+												class="lazy">
+											<img src="new_design/images/icons/skill_mvc.svg" alt=".NET icon"
+												class="at-hover-tech-icon lazy">
+											.NET
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/ios-app-development-services.html">
+											<img src="new_design/images/icons/at_color_apple.svg" alt="Apple icon"
+												class="lazy">
+											<img src="new_design/images/icons/at_color_apple.svg" alt="Apple icon"
+												class="at-hover-tech-icon lazy">
+											iOS
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/salesforce-development-services.html">
+											<img src="new_design/images/icons/at-salesforce.svg" width="18"
+												alt="Salesforce icon" class="lazy">
+											<img src="new_design/images/awards/at_salesforce_partner.svg" width="18"
+												alt="Salesforce icon" class="at-hover-tech-icon lazy">
+											Salesforce
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/android-app-development-services.html">
+											<img src="new_design/images/icons/at_android_icon_blue.svg"
+												alt="Android icon" class="lazy">
+											<img src="new_design/images/icons/at_android_icon.svg" alt="Android icon"
+												class="at-hover-tech-icon lazy">
+											Android
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/microsoft-power-platform-development-services.html">
+                                            <img src="new_design/images/icons/ms_power_platform_blue.svg"
+                                                alt="Power Platform icon" class="lazy">
+                                            <img src="new_design/images/icons/ms_power_platform.svg"
+                                                alt="Power Platform icon" class="at-hover-tech-icon lazy">
+                                            Power Platform
+                                        </a>
+									</li>
+									<li class="nav-item">
+										<a href="/react-native-app-development-services.html">
+											<img src="new_design/images/icons/at_react_icon_blue.svg"
+												alt="React Native icon" class="lazy">
+											<img src="new_design/images/icons/at_react_icon.svg" alt="React Native icon"
+												class="at-hover-tech-icon lazy">
+											React Native
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/servicenow-solutions.html">
+											<img src="new_design/images/icons/at-servicenow.svg" alt="ServiceNow icon"
+												class="lazy">
+											<img src="new_design/images/icons/at_servicenow_icon_color.svg"
+												alt="ServiceNow icon" class="at-hover-tech-icon lazy">
+											ServiceNow
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services/mobile-development.html">
+											<img src="new_design/images/icons/at-mobile.svg" alt="Mobile icon"
+												class="lazy pe-1">
+											<img src="new_design/images/icons/tech_mobile.svg" alt="Mobile icon"
+												class="at-hover-tech-icon lazy pe-1">
+											Mobile
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/sharepoint-development-services.html">
+											<img src="new_design/images/icons/at-sharepoint.svg" alt="SharePoint icon"
+												class="lazy">
+											<img src="new_design/images/icons/ms_sharepoint.svg" width="16"
+												alt="SharePoint icon" class="at-hover-tech-icon lazy">
+											SharePoint
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services/cloud-computing.html">
+											<img src="new_design/images/icons/at-cloud-blue.svg" alt="Cloud icon"
+												class="lazy">
+											<img src="new_design/images/icons/at-cloud.svg" alt="Cloud icon"
+												class="at-hover-tech-icon lazy">
+											Cloud
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services/business-intelligence.html">
+											<img src="new_design/images/icons/at-business-intelligence.svg"
+												alt="Business Intelligence icon" class="lazy">
+											<img src="new_design/images/icons/at-business-intelligence-color.svg"
+												alt="Business Intelligence icon" class="at-hover-tech-icon lazy">
+											Business Intelligence
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services/sap-development.html">
+											<img src="new_design/images/icons/at-sap-development.svg"
+												alt="SAP Development icon" class="lazy">
+											<img src="new_design/images/icons/hire_sharepoint_sap.svg" width="16"
+												alt="SAP Development icon" class="at-hover-tech-icon lazy">
+											SAP
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services/e-learning-solutions.html">
+											<img src="new_design/images/icons/at-elearning.svg" alt="eLearning icon"
+												class="lazy">
+											<img src="new_design/images/icons/at-elearning-color.svg"
+												alt="eLearning icon" class="at-hover-tech-icon lazy">
+											e-Learning
+										</a>
+									</li>
+									<li class="nav-item">
+										<a href="/services/php-development.html">
+											<img src="new_design/images/icons/at-opensource.svg" alt="Open Source icon"
+												class="lazy">
+											<img src="new_design/images/icons/at-opensource-green.svg"
+												alt="Open Source icon" class="at-hover-tech-icon lazy">
+											Open Source
+										</a>
+									</li>
+								</ul>
+							</ul>
+						</li>
+						<li class="nav-item at-has-menu at-mega-menu at-hire-mega-menu">
+							<a class="nav-link" href="javascript:void(0);">Hire</a>
+							<button class="accordion-button d-lg-none at-has-sub-menu-arrow" type="button"
+								data-bs-toggle="collapse" data-bs-target="#HireSub" aria-expanded="false"
+								aria-controls="HireSub">
+								Menu Collapse
+								<img src="new_design/images/icons/arrow_blue_small_next.svg"
+									class="d-lg-block d-none at-svg" alt="Next Arrow Icon">
+							</button>
+							<ul class="collapse d-lg-block" id="HireSub" data-bs-parent="#atNavBar1">
+								<ul class="at-list">
+									<li>
+										<h3>Hire a Team
+											<button class="accordion-button d-lg-none at-has-sub-menu-arrow"
+												type="button" data-bs-toggle="collapse" data-bs-target="#HireTeam"
+												aria-expanded="false" aria-controls="HireTeam">
+												Menu Collapse
+												<img src="new_design/images/icons/arrow_blue_small_next.svg"
+													class="d-lg-block d-none at-svg" alt="Next Arrow Icon">
+											</button>
+										</h3>
+										<ul class="collapse d-lg-block pt-lg-0" id="HireTeam"
+											data-bs-parent="#atNavBar2">
+											<li class="nav-item">
+												<a href="/hire-dedicated-developers.html">Dedicated Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-dot-net-developers.html">.NET Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-salesforce-developers.html">Salesforce Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-open-source-developers.html">Open Source Developers</a>
+											</li>
+										</ul>
+									</li>
+									<li>
+										<h3>Hire Mobile Apps Developers
+											<button class="accordion-button d-lg-none at-has-sub-menu-arrow"
+												type="button" data-bs-toggle="collapse" data-bs-target="#HireDevelopers"
+												aria-expanded="false" aria-controls="HireDevelopers">
+												Menu Collapse
+												<img src="new_design/images/icons/arrow_blue_small_next.svg"
+													class="d-lg-block d-none at-svg" alt="Next Arrow Icon">
+											</button>
+										</h3>
+										<ul class="collapse d-lg-block pt-lg-0" id="HireDevelopers"
+											data-bs-parent="#atNavBar2">
+											<li class="nav-item">
+												<a href="/hire-mobile-app-developers.html">Mobile App Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-ios-app-developers.html">iOS App Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-android-app-developers.html">Android App Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-cross-platform-app-developers.html">Cross Platform App
+													Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-flutter-app-developers.html">Flutter App Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-react-native-developers.html">React Native App
+													Developers</a>
+											</li>
+										</ul>
+									</li>
+
+									<li>
+										<h3>
+											Hire Microsoft Developers
+											<button class="accordion-button d-lg-none at-has-sub-menu-arrow"
+												type="button" data-bs-toggle="collapse"
+												data-bs-target="#HireMicrosoftDevelopers" aria-expanded="false"
+												aria-controls="HireMicrosoftDevelopers">
+												Menu Collapse
+												<img src="new_design/images/icons/arrow_blue_small_next.svg"
+													class="d-lg-block d-none at-svg" alt="Next Arrow Icon">
+											</button>
+										</h3>
+										<ul class="collapse d-lg-block pt-lg-0" id="HireMicrosoftDevelopers"
+											data-bs-parent="#atNavBar2">
+											<li class="nav-item">
+												<a href="/hire-sharepoint-developers.html">SharePoint Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-power-platform-developers.html">Power Platform
+													Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-power-bi-developers.html">Power BI Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-powerapps-developers.html">PowerApps Developers</a>
+											</li>
+											<li class="nav-item">
+												<a href="/hire-power-automate-developers.html">Power Automate
+													Developers</a>
+											</li>
+										</ul>
+									</li>
+
+								</ul>
+							</ul>
+						</li>
+						<li class="nav-item at-has-menu at-mega-menu at-experience-mega-menu at-blog-st-menu">
+							<a class="nav-link" href="javascript:void(0);">Experience</a>
+							<button class="accordion-button d-lg-none at-has-sub-menu-arrow" type="button"
+								data-bs-toggle="collapse" data-bs-target="#ExperienceSub" aria-expanded="false"
+								aria-controls="ExperienceSub">
+								Menu Collapse
+								<img src="new_design/images/icons/arrow_blue_small_next.svg"
+									class="d-lg-block d-none at-svg" alt="Next Arrow Icon">
+							</button>
+							<ul class="collapse d-lg-block" id="ExperienceSub" data-bs-parent="#atNavBar1">
+								<li class="pb-3 pb-lg-0">
+									<div class="row">
+										<div class="col-lg-4">
+											<a href="/case-studies.html">
+												<img src="new_design/images/header/at-case-studies.webp"
+													alt="Case Studies Image" />
+												<h3>Case Studies</h3>
+												<p>It is analyses of real-life situations used to solve problems.</p>
+											</a>
+										</div>
+										<div class="col-lg-4">
+											<a href="/portfolio.html">
+												<img src="new_design/images/header/at-portfolio.webp"
+													alt="Portfolio Image" />
+												<h3>Portfolio</h3>
+												<p>It is a collection of work that highlights our skills and
+													achievements.</p>
+											</a>
+										</div>
+										<div class="col-lg-4">
+											<a href="/testimonials.html">
+												<img src="new_design/images/header/at-testimonials.webp"
+													alt="Testimonials Image" />
+												<h3>Testimonials</h3>
+												<p>It is a reviews that endorse our skills, services and products.</p>
+											</a>
+										</div>
+									</div>
+								</li>
+							</ul>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="blog/">Blog</a>
+						</li>
+						<li class="nav-item at-has-menu at-mega-menu at-about-mega-menu">
+							<a class="nav-link" href="javascript:void(0);">About Us</a>
+							<button class="accordion-button d-lg-none at-has-sub-menu-arrow" type="button"
+								data-bs-toggle="collapse" data-bs-target="#AboutUsSub" aria-expanded="false"
+								aria-controls="AboutUsSub">
+								Menu Collapse
+								<img src="new_design/images/icons/arrow_blue_small_next.svg"
+									class="d-lg-block d-none at-svg" alt="Next Arrow Icon">
+							</button>
+							<ul class="collapse d-lg-flex align-items-center" id="AboutUsSub"
+								data-bs-parent="#atNavBar1">
+								<div class="at-about-info d-none d-lg-block">
+									<div class="row">
+										<div class="col-md-6">
+											<h4>18+</h4>
+											<p>Years Of Trust</p>
+										</div>
+										<div class="col-md-6">
+											<h4>110+</h4>
+											<p>IT Professionals</p>
+										</div>
+										<div class="col-md-6">
+											<h4>9+</h4>
+											<p>Global Locations</p>
+										</div>
+										<div class="col-md-6">
+											<h4>580+</h4>
+											<p>Successful Projects</p>
+										</div>
+										<div class="col-12">
+											<p class="at-border-top">
+												We Are Your IT Partners For Comprehensive & Scalable Solutions.
+											</p>
+										</div>
+										<div class="col-12">
+											<a class="btn at-white-btn at-common-fill-btn"
+												href="/contact-us.html">Contact Us</a>
+										</div>
+									</div>
+								</div>
+								<ul class="at-list">
+									<li class="nav-item">
+										<a href="/about-us.html">Overview</a>
+									</li>
+									<li class="nav-item">
+										<a href="/alliancetek-adv.html">The
+											AllianceTek
+											Advantage</a>
+									</li>
+									<li class="nav-item">
+										<a href="/how-we-help.html">How We
+											Help</a>
+									</li>
+									<li class="nav-item">
+										<a href="/why-choose-us.html">Why
+											Choose Us</a>
+									</li>
+									<li class="nav-item">
+										<a href="/what-we-offer.html">What We
+											Offer</a>
+									</li>
+									<li class="nav-item">
+										<a href="/client-partnerships-industries.html">Industries
+											We Serve</a>
+									</li>
+									<li class="nav-item">
+										<a href="/our-approach.html">Our
+											Approach</a>
+									</li>
+									<li class="nav-item">
+										<a href="/development-methodology.html">Development
+											Methodology</a>
+									</li>
+								</ul>
+							</ul>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link at-nav-btn" href="/contact-us.html">Contact Us</a>
+						</li>
+						<li class="nav-item at-search-form">
+							<a class="nav-link at-search position-relative" href="javascript:void(0);"
+								data-bs-toggle="collapse" data-bs-target="#search-form" aria-expanded="false"
+								aria-controls="search-form">
+								<img src="new_design/images/icons/search.svg" alt="Search Icon" class="at-search-icon">
+								<img src="new_design/images/icons/close-icon.svg" alt="Close Icon"
+									class="at-search-close-icon">
+							</a>
+							<div role="search" class="at-search-form-inner collapse d-lg-block" id="search-form"
+								data-bs-parent="#atNavBar1">
+								<div class="form-group mb-0">
+									<input type="search" class="form-control search-button" id="txtsearch"
+										placeholder="Search..">
+									<label for="Search" hidden>Search</label>
+								</div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</nav>
+        </div>
+    </header>
+    <!-- Header End -->
+
+    <!-- 404 Start -->
+    <section class="at-inner-hero at-home-hero at-ptb-100 at-hero-top-space">
+        <div class="container-xl">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <div class="at-company-des">
+                        <div class="at-common-head">
+                            <h1 class="at-head-60 at-head-pattern">Opps !</h1>
+                            <h2 class="at-head-44">Sorry - Page Not Found!</h2>
+                        </div>
+                        <div class="at-common-des">
+                            <p>The page you are looking for was moved, removed, renamed or might never existed. You
+                                stumbled upon a broken link :(</p>
+                            <a href="index.html" title="Home" class="btn at-common-fill-btn">Back to Home</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="at-hero-img">
+                        <img src="new_design/images/pagenotfound/404.svg" alt="404" class="lazy">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- 404 End -->
+
+    <!-- Footer Start -->
+    <footer class="at-footer at-bg-light">
+        <div class="at-footer-top">
+            <div class="container-xl">
+                <div class="row">
+                    <div class="col-lg-4">
+                        <div class="at-footer-des at-common-des">
+                            <a href="index.html">
+                                <img src="new_design/images/ajna.jpg" alt="AllianceTek Inc." class="lazy">
+                            </a>
+                            <p>Ajna Technologies mission is to provide a technology bridge that leads to prosperity in
+                                business for everyone, from the solopreneur with big dreams to the household-name large
+                                corporation.7</p>
+                        </div>
+                        <div class="at-footer-social">
+                            <a href="https://www.facebook.com/AlliancetekInc" target="_blank">
+                                <img src="new_design/images/icons/at_facebook.svg" alt="Facebook Icon" class="lazy">
+                            </a>
+                            <a href="https://x.com/AllianceTekInc" target="_blank">
+                                <img src="new_design/images/icons/at_twitter.svg" alt="Twitter Icon" class="lazy">
+                            </a>
+                            <a href="https://www.linkedin.com/company/alliancetek" target="_blank">
+                                <img src="new_design/images/icons/at_linkedin.svg" alt="LinkedIn Icon" class="lazy">
+                            </a>
+                            <a href="https://www.pinterest.com/alliancetekinc/" target="_blank">
+                                <img src="new_design/images/icons/at_pinterest.svg" alt="Pinterest Icon" class="lazy">
+                            </a>
+                            <a href="https://www.instagram.com/alliancetek_inc/" target="_blank">
+                                <img src="new_design/images/icons/at_instagram.svg" alt="Instagram Icon" class="lazy">
+                            </a>
+                            <a href="https://www.youtube.com/Alliancetek" target="_blank">
+                                <img src="new_design/images/icons/at_youtube.svg" alt="YouTube Icon" class="lazy">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-lg-8">
+                        <div class="at-footer-links">
+                            <div class="row">
+                                <div class="col-sm-4">
+                                    <div class="at-footer-link-des">
+                                        <h2 class="at-head-18">Useful Links</h2>
+                                        <a href="index.html" class="at-active">Home</a>
+                                        <a href="career.html">Career</a>
+                                        <a href="contact-us.html">Contact Us</a>
+                                        <a href="sitemap.html">Sitemap</a>
+                                        <a href="terms-use.html">Terms of Use</a>
+                                        <a href="privacy-policy.html">Privacy & Confidentiality</a>
+                                    </div>
+                                </div>
+                                <div class="col-sm-8">
+                                    <div class="at-footer-link-des">
+                                        <h2 class="at-head-18">Hire a Team</h2>
+                                        <div class="row">
+                                            <div class="col-sm-6">
+                                                <a href="hire-dedicated-developers.html">Hire Dedicated Developers</a>
+                                                <a href="hire-sharepoint-developers.html">Hire SharePoint Developers</a>
+                                                <a href="/hire-salesforce-developers.html">Hire Salesforce
+                                                    Developers</a>
+                                                <a href="/hire-dot-net-developers.html">Hire .NET Developers</a>
+                                                <a href="hire-open-source-developers.html">Hire Open Source
+                                                    Developers</a>
+                                                <a href="/hire-ios-app-developers.html">Hire iOS App Developers</a>
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <a href="/hire-android-app-developers.html">Hire Android App
+                                                    Developers</a>
+                                                <a href="hire-cross-platform-app-developers.html">Hire Cross Platform
+                                                    App Developers</a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="at-footer-copy">
+            <div class="container-xl">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="at-footer-copy-des text-center">
+                            <p>© 2024 AllianceTek Inc. All rights reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Footer End -->
+
+    <!-- Testimonial Modal Start -->
+    <div class="modal fade at-testimonial_video_modal" id="testimonial_video" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-lg modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-body p-0">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close">
+                        <img src="new_design/images/icons/close-icon.svg" alt="Close Icon" class="at-svg lazy">
+                    </button>
+                    <div class="at-embed-responsive">
+                        <iframe id="iframtestimonial_video" src=""
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Testimonial Modal End -->
+
+    <!-- Common Js Start -->
+    <script src="new_design/js/jquery.min.js"></script>
+    <script src="new_design/js/bootstrap.bundle.min.js"></script>
+    <!-- Common Js End -->
+
+    <!-- Lazy Load Js Start -->
+    <script src="new_design/js/jquery.lazyload.min.js"></script>
+    <!-- Lazy Load Js End -->
+
+    <!-- Owl Carousel Js Start -->
+    <script src="new_design/js/owl.carousel.min.js"></script>
+    <!-- Owl Carousel Js End -->
+
+    <!-- Wow Js Start -->
+    <script src="new_design/js/wow.min.js"></script>
+    <!-- Wow Js End -->
+
+    <!-- Match Height Js Start -->
+    <script src="new_design/js/matchHeight-min.js"></script>
+    <!-- Match Height Js End -->
+
+    <!-- Magnific Popup Js Start -->
+    <script src="new_design/js/jquery.magnific-popup.min.js"></script>
+    <!-- Magnific Popup Js End -->
+
+    <!-- Custom Js Start -->
+    <script src="new_design/js/contactus.min.js"></script>
+    <!-- Custom Js End -->
+
+    <!-- Custom Js Start -->
+    <script src="new_design/js/custom.js"></script>
+    <!-- Custom Js End -->
+
+</body>
+
+</html>
